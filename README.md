@@ -31,4 +31,4 @@ Feel free to explore the code and customize the application to your liking!
 **Let's keep the scoreboard ticking!**
 
 Developed by 
-Sumit R Malik
+[Sumit R Malik](https://www.linkedin.com/in/sumit-r-malik/)
